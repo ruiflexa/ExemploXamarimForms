@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploXamarimForms.UWP", "
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ExemploXamarimForms", "ExemploXamarimForms\ExemploXamarimForms\ExemploXamarimForms.shproj", "{6C0E5AF6-96BC-4A18-8247-ED2301D0CC8A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75BF805C-2463-44DB-8DA7-24273508A6AF}"
+	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		ExemploXamarimForms\ExemploXamarimForms\ExemploXamarimForms.projitems*{48f35a1d-6ce7-4524-83c1-e4233037f8b9}*SharedItemsImports = 4
