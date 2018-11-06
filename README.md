@@ -9,7 +9,7 @@ or get the [CI build](http://vsixgallery.com/extension/{ID}/).
 
 ---------------------------------------
 
-{Description}
+Exemplo Projeto Xamarin Forms vazio para explicar a estrutura
 
 See the [change log](CHANGELOG.md) for changes and road map.
 
